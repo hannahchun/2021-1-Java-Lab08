@@ -9,7 +9,7 @@ public class KMToMConverter implements Convertible{
 
     /**
      * This is a public method called setFromValue that sets original value
-     * @param fromValue one double type value 
+     * @param fromValue one double type value
      */
     public void setFromValue(double fromValue){
         pvalue=fromValue;

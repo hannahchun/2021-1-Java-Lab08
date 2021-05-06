@@ -13,7 +13,7 @@ public class IntegratedConverter {
     private double fromValue;
 
     /**
-     * This is a main method 
+     * This is a main method
      * @param args one string type argumanet
      */
     public static void main(String[] args) {

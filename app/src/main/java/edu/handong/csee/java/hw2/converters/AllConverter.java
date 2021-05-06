@@ -1,7 +1,7 @@
 package edu.handong.csee.java.hw2.converters;
 
 /**
- * This is a public class called AllConverter 
+ * This is a public class called AllConverter
  */
 public class AllConverter {
     private double pvalue;
